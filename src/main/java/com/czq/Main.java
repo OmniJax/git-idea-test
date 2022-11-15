@@ -7,5 +7,7 @@ public class Main {
 
         System.out.println("master 1 after merge");
         System.out.println("hot-fix 1 after merge");
+        
+        System.out.println("web pull test");
     }
 }
